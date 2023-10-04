@@ -46,7 +46,7 @@ No blog wordpress foi possível identificar outra localização para o alvo.<br>
 *Where has he gone on holiday?*<br>
 RSP: **New York**
 
-Ainda no blog, é possível identificar uma possível senha escondida no source code do site.
+Ainda no blog, é possível identificar uma possível senha escondida no source code do site.<br>
 *What is the person's password?*<br>
 RSP: **pennYDr0pper.!**
 
