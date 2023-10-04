@@ -2,7 +2,7 @@
 
 Essa room tem o objetivo de obtenção de informações a partir da imagem abaixo: 
 
-![](./WindowsXP.jpg)
+![](./files/WindowsXP.jpg)
 
 ## Information Gaethering
 
@@ -14,7 +14,7 @@ ___
 
 Twitter: [Link](https://twitter.com/OWoodflint)
 
-![Alt text](image.png)
+![Alt text](files/image.png)
 
 A partir desta conta, podemos completar a primeira flag da room: 
 
