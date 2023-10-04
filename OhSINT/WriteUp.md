@@ -33,8 +33,22 @@ RSP: **UnileverWiFi**<br>
 
 ___
 
+Após coletadas informações úteis no twitter, continuando as pesquisas, foi possível encontrar um GitHub em nome do alvo e um blog em wordpress.<br>
 
+**GitHub:** [Link](https://github.com/OWoodfl1nt/people_finder)<br>
 
+No GitHub foi possível identificar um gmail do alvo.<br>
+
+*What is his personal email address?*<br>
+RSP: **OWoodflint@gmail.com**<br>
+
+No blog wordpress foi possível identificar outra localização para o alvo.<br>
+*Where has he gone on holiday?*<br>
+RSP: **New York**
+
+Ainda no blog, é possível identificar uma possível senha escondida no source code do site.
+*What is the person's password?*<br>
+RSP: **pennYDr0pper.!**
 
 
 
